@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box; }
-
+#arrow{
+  max-width:8%;
+  
+}
 body {
   padding: 0;
   margin: 0;
