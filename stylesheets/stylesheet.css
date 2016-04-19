@@ -2,7 +2,8 @@
   box-sizing: border-box; }
 #arrow{
   max-width:8%;
-  
+  margin-bottom:8%;
+  margin-left:2%;
 }
 body {
   padding: 0;
